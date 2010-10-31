@@ -1,5 +1,5 @@
-module Rqrencoder
+module RQREncoder
   module Magick
-    # Your code goes here...
+    require 'rqrencoder-magick/qrcode_ext'
   end
 end
